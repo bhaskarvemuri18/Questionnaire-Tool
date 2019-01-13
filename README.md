@@ -6,6 +6,4 @@ However, it is designed in such a way that it could include any number of new qu
 
 Tools and Technologies used: Java, IntelliJ
 
-Edit project Advisor to Advisor App
-
 This project is stored on Northeastern's private github repository. Please mail me at vemuri.sr@husky.neu.edu to accesses this project.
